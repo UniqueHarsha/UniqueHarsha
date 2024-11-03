@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UniqueHarsha
+- 👋 Hi, I’m JADHAV HARSHAVARDHAN
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on projects of ethical hacking,webdevelopment,android development
